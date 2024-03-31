@@ -1,0 +1,538 @@
+.navbar .name{
+    margin-right: 50px;
+}
+.main{
+   background-color: #f4f4f4;
+}
+.first{
+    margin-top: 60px;
+  
+   
+}
+.all img{
+    width: 130px;
+    height: 200px;
+    margin-right: 10px;
+}
+.second img{
+
+    width: 350px;
+    height: 470px;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.all{
+
+font-weight: 900;
+font-size: 70px;
+
+
+}
+.first p{
+   
+    font-size: 36px;
+    color: #868e96;
+}
+.hover :hover{
+    background-color: #f4f4f4;
+    justify-content: space-between;
+
+
+}
+.right{
+    margin-top: 30px;
+    color: #55198b;
+    font-weight: 700;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: italic;
+    font: 2em sans-serif;
+    width: 350px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.right {
+
+    cursor: pointer;
+}
+.navbar-text{
+    margin-top: 30px;
+    cursor: pointer;
+    color: #000;
+    font-family: sans-serif;
+    font-size: 19px;
+}
+.navbar-text:hover{
+    
+    color: #55198b;
+    background-color: #868e96;
+    transition: 1s;
+   
+}
+.skills{
+    color: black;
+}
+.photo img{
+    width: 41px;
+    height: 41px;
+    border-radius: 100px;
+    cursor: pointer;
+  
+  
+}
+ .photo img:hover{
+border: 4px solid;
+   
+}
+.two{margin-left: 10px;}
+.sen{
+    margin-left: 10px;
+}
+.six{
+    margin-left: 10px;
+
+
+}
+.fifth{
+    margin-left: 10px;
+
+}
+.char{
+    margin-left: 10px;
+
+}
+.three{
+    margin-left: 10px;
+
+}
+
+.color{
+    background-color:#55198b;
+    margin-left: 10px;
+    width: 150px;
+   cursor: pointer;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+.color p{
+
+    color: white;
+    font-size: 27px;
+    font-weight: 600;
+  font-style: italic;
+    width: 151px;
+    height: 50px;
+    
+  
+   
+}
+.main a{
+    text-decoration: none;
+}
+
+.color p:hover{
+    background-color: #f4f4f4;
+    color: #55198b;
+   transition: 1s;
+   border: 2px solid;
+}
+
+
+.third{
+    margin-top: 200px;
+   
+}
+.pic img{
+
+    width: 650px;
+    height: 500px;
+    margin-left: 50px;
+}
+.four h2{
+    font-size: 56px;
+    color: #000;
+}
+.four p{
+    font-size: 20px;
+    color: #868e96;
+    margin-top: 30px;
+}
+.four img{
+
+
+    width: 70px;
+    height: 68px;
+    cursor: pointer;
+}
+.four img:hover{
+
+   border: 4px solid;
+}
+
+
+.h1 h1{
+font: 2em sans-serif;
+color: #000;
+}
+.seven{
+
+margin-top: 200px;
+
+
+}
+
+.seven p{
+
+    margin-top: 30px;
+    font-size: large;
+}
+
+.gif img{
+    width: 650px;
+    height: 500px;
+    margin-top: 0px;
+}
+.Education h1{
+
+    font: 4em sans-serif;
+    color: #000;
+
+
+}
+.Education img{
+
+    width: 96px;
+    height: 96px;
+    margin-top: 20px;
+}
+.EVERY{
+    margin-top: 100px;
+  
+}
+.EVERY h5{
+    margin-left: 20px;
+    font-size: 28px;
+    font-weight: 600;
+    color: #000;
+}
+.EVERY p{
+
+    margin-left: 20px;
+    color: #000;
+    font-size: 19px;
+}
+.EVERY ul li{
+    font-size: 19px;
+    color: #868e96;
+}
+.card-border{
+
+    border-top: 2px solid hsla(0, 0%, 83%, .397);
+    height: 30px;
+    margin-bottom: 20px;
+    transition: .6s ease-in-out;
+    transition-duration: 0.6s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+    transition: property 5px; 
+    width: 80%;
+}
+.EVERY-2 h5{
+
+    margin-left: 20px;
+    font-size: 28px;
+    font-weight: 600;
+    color: #000;
+
+}
+
+.EVERY-2 p{
+
+    margin-left: 20px;
+    color: #000;
+    font-size: 19px;
+}
+.EVERY-2 ul li{
+    font-size: 19px;
+    color: #868e96;
+}
+.you{
+    margin-top: 60px;
+}
+.wel{
+
+    margin-top: 60px;
+}
+.h5 h1{
+
+    
+    font: 3em sans-serif;
+    color: #000;
+}
+
+.exp{
+
+    margin-top: 180px;
+}
+.card h5{
+   margin-left: 70px;
+   font-size: 28px;
+   color: #000;
+   font-family: sans-serif;
+   font-weight: 550;
+   
+}
+.cards img{
+    height: 200.14px;
+}
+.card h4{
+
+    font-size: 23px;
+    margin-left: 90px;
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.card p{
+
+    color: #868e96;
+    font-size: 21px;
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-style: normal;
+    line-height: 23px;
+
+}
+.card ul li{
+
+    color: #868e96;
+    font-size: 21px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 23px;
+
+
+
+}
+.box{
+
+    height: 343px;
+}
+.sorce h1{
+    
+    font-size: 50px;
+    color: #000;
+    font-family: sans-serif;
+   
+    
+    
+ 
+}
+.sorce{
+
+    margin-top: 180px;
+}
+.space{
+    margin-top: 20px;
+   
+}
+.card-body img{
+
+    width: 20px;
+    height: 20px;
+}
+.card-body span{
+
+    font-size: 25px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.card-body{
+    cursor: pointer;
+}
+.button-man{
+
+    margin-left: 650px;
+    margin-top: 40px;
+    color: #f4f4f4;
+    background-color: #55198b;
+    width: 185px;
+    height: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.button-man p{
+   margin-left: 10px;
+    font-size: 27px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 10px;
+    font-weight: 600;
+}
+.button-man:hover{
+
+    background-color: #f4f4f4;
+    color: #55198b;
+   transition: 1s;
+}
+.button-man p:hover{
+
+    border: 2px solid;
+}
+.big{
+    margin-top: 180px;
+}
+.big h1{
+
+    font-size: 56px;
+    color: #000;
+    font-family: sans-serif;
+   
+
+}
+.big p{
+    color: #868e96 ;
+    font-size: 19px;
+}
+.two-card img{
+
+    width: 250px;
+    height: 250px;
+    margin: auto;
+}
+.auto{
+    margin-left: 160px;
+}
+.text-body-secondary{
+    background-color: #55198b;
+    color: #f4f4f4;
+}
+.three-card img{
+    width: 250px;
+    height: 250px;
+    margin-left: 80px;
+}
+.three-card h3{
+    margin-left: 30px;
+}
+.high{
+    height: 204px;
+}
+.big-2{
+
+    margin-top: 200px;
+
+}
+.big-2 h1{
+
+    font-size: 56px;
+    color: #000;
+    font-family: sans-serif;
+   
+
+}
+.big-2 p{
+    color: #868e96 ;
+    font-size: 19px;
+}
+.big-2 h2{
+    font-size: 22px;
+}
+.h6 img{
+    width: 50px;
+    height: 80px;
+}
+
+
+.fo4{
+    font-size: 19px;
+    font-family: sans-serif;
+}
+.photo-2 img{
+    width: 41px;
+    height: 41px;
+    border-radius: 100px;
+    cursor: pointer;
+}
+.photo-2{
+    margin-top: 30px;
+}
+.photo-2 img:hover{
+
+    border: 4px solid;
+   
+
+}
+.footer{
+  margin-left: 600px;
+  margin-top: 40px;
+}
+.footer p{
+    font-size: 19px;
+    color: #868e96;
+    font-family: sans-serif;
+}
+.footer-text-2{
+    margin-left: 50px;
+}
+.profile img{
+
+    width: 289px;
+    height: 289px;
+    border-radius: 140px;
+    border: rgb(66, 66, 234) 8px solid;
+}
+.seven span{
+    border-radius: 100px;
+    color: #AAA5FF;
+ 
+    
+}
+.font{
+
+    font-size: 22px !important;
+}
+.font-2{
+    font-size: 17px !important;
+   
+}
+.cad{
+    height: 207px;
+}
+.back :hover{
+    background-color: #55198b;
+    color: #f4f4f4;
+    transition: all;
+    transition: 1s;
+}
+.talks-2{
+    margin-left: 500px;
+}
+
+.left-btn{
+    margin-left: 180px;
+   
+}
+
+.talks-2 span{
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 400;
+
+}
+.taal{
+    height: 250px;
+    width: 400px !important;
+}
+.btn{
+    margin-top: 30px;
+    background-color: #55198b;
+    width: 85px;
+  
+}
+.room{
+    width: 385px;
+    margin-left: 20px;
+}
